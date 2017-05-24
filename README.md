@@ -22,3 +22,5 @@
    - [ ] Pull from the branch initially not fetched
    - [x] Pull with git pull origin Fake:AnotherLocalBranch
    was done through shell. This diff with this comment will be done trough WebStorm**
+   
+**Just another change to assure the remote 'Fake' branch is ahead of CheatSheet local branch in commits**   
