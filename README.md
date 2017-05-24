@@ -7,6 +7,7 @@
     - [ ] Pull remote repo
     - [ ] Push to particular branch
     - [ ] Pull from the branch initially not fetched
+    - [x] Pull with git pull origin Fake:AnotherLocalBranch
 =======
 
 **Creating conflict**
