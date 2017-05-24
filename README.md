@@ -6,6 +6,7 @@
     - [ ] Pushing to origin/branch
     - [ ] Pull remote repo
     - [ ] Push to particular branch
+    - [ ] Pull from the branch initially not fetched
 =======
 
 **Creating conflict**
