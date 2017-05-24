@@ -17,3 +17,8 @@
 **THE FAKE CONFLICT LINE**
 
 **This pull-merge-push from-to origin/Fake was done with WebStorm VCS GUI** 
+
+**The prev commit/pull with  
+   - [ ] Pull from the branch initially not fetched
+   - [x] Pull with git pull origin Fake:AnotherLocalBranch
+   was done through shell. This diff with this comment will be done trough WebStorm**
