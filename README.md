@@ -6,6 +6,7 @@
     - [ ] Pushing to origin/branch
     - [ ] Pull remote repo
     - [ ] Push to particular branch
+    - [x] Pull with git pull origin Fake:AnotherLocalBranch
 =======
 
 **Creating conflict**
