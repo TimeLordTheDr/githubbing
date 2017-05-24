@@ -4,3 +4,4 @@
     - [ ] Conflict resolution
     - [ ] Pushing to origin/branch
     - [ ] Pull remote repo
+    - [ ] Push to particular branch
