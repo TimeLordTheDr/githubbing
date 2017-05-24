@@ -3,3 +3,4 @@
 - [ ] Upstream Workflow
     - [ ] Conflict resolution
     - [ ] Pushing to origin/branch
+    - [ ] Pull remote repo
