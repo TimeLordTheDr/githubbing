@@ -16,4 +16,7 @@
 
 **THE FAKE CONFLICT LINE**
 
-**This pull-merge-push from-to origin/Fake was done with WebStorm VCS GUI** 
+**This pull-merge-push from-to origin/Fake was done with WebStorm VCS GUI**
+ 
+ 
+**Checking whether WebStorm automatically defines fast-forward pull or not** 
