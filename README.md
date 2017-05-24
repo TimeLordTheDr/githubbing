@@ -20,3 +20,13 @@
  
  
 **Checking whether WebStorm automatically defines fast-forward pull or not** 
+**This pull-merge-push from-to origin/Fake was done with WebStorm VCS GUI** 
+
+**The prev commit/pull with  
+   - [ ] Pull from the branch initially not fetched
+   - [x] Pull with git pull origin Fake:AnotherLocalBranch
+   was done through shell. This diff with this comment will be done trough WebStorm**
+   
+**Just another change to assure the remote 'Fake' branch is ahead of CheatSheet local branch in commits**
+   
+**WebStorm automatically offers fixing conflicts and checking whether the merge was fast- or non-fast-forward**   
